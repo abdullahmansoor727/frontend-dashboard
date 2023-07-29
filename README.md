@@ -17,5 +17,5 @@ The app should start running on the port `5173`
 ### Challenges faced:
 
 - struggled with unit tests as I haven't implemented them before
-  - managed to write the tests using AI tools
-  - started reading up on tests and how to make them a part my regular development routine
+  - tried writing the tests using an AI tools but no luck
+  - started reading up on unit tests and how to make them a part my regular development routine
