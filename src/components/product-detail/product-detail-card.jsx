@@ -33,7 +33,7 @@ export default ProductDetailCard;
 
 function CardContent(props) {
   const { isLoading, error, detail } = props;
-  if (isLoading)
+  if (isLoading && !detail)
     return (
       <CenterAlignedContainer>
         <CircularProgress />
